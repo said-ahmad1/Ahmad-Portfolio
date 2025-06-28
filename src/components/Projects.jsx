@@ -9,13 +9,13 @@ export default function Projects() {
       title: 'E-Commerce Website',
       image: project1,
       tech: ['React', 'GSAP', 'Tailwind'],
-      link: 'https://your-live-link.com',
+      link: 'https://e-commwece.vercel.app/',
     },
     {
       title: 'Personal Portfolio',
       image: project2,
       tech: ['Framer Motion', 'Tailwind', 'React'],
-      link: 'https://your-portfolio-link.com',
+      link: 'http://ahmad-portfolio-alpha.vercel.app',
     },
   ];
 

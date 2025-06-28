@@ -20,13 +20,13 @@ export default function Footer() {
 
         {/* Right Side: Social Links */}
         <div className="flex gap-4 text-xl text-gray-300">
-          <a href="https://github.com/your-username" target="_blank" className="hover:text-white">
+          <a href="https://github.com/said-ahmad1" target="_blank" className="hover:text-white">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/your-profile" target="_blank" className="hover:text-white">
+          {/* <a href="https://linkedin.com/in/your-profile" target="_blank" className="hover:text-white">
             <FaLinkedin />
-          </a>
-          <a href="mailto:your-email@gmail.com" className="hover:text-white">
+          </a> */}
+          <a href="mailto:imsaidahmad@gmail.com" className="hover:text-white">
             <FaEnvelope />
           </a>
         </div>
